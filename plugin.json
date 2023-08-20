@@ -4,7 +4,7 @@
   "version": "5.0.0",
   "theme": true,
   "require": {
-    "matomo": ">=5.0.0-b1,<6.0.0-b1"
+    "matomo": ">=3.0.0,<6.0.0-b1"
   },
   "stylesheet": "stylesheets/theme.less",
   "homepage": "https://whitespace.se/matomo/",
